@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5e7b0c7a7030cf3a44eb11a7"},"fx":"4x^3-2","x":{"$numberInt":"3"},"h":{"$numberDouble":"0.5"},"degree":{"$numberInt":"1"},"__v":{"$numberInt":"0"}}
