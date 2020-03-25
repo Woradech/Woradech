@@ -75,8 +75,8 @@ class App extends Component {
                 <Menu.Item key="1">Bisection  <Link to="/Bisection" />  </Menu.Item>
                 <Menu.Item key="2">False Position <Link to="/FalsePosition" /> </Menu.Item>
                 <Menu.Item key="3">Onepoint <Link to="/Onepoint" /> </Menu.Item>
-                <Menu.Item key="5">Newton Raphson <Link to="/NewtonRaphson" /> </Menu.Item>
-                <Menu.Item key="6">Secant <Link to="/Secant" /> </Menu.Item>
+                <Menu.Item key="4">Newton Raphson <Link to="/NewtonRaphson" /> </Menu.Item>
+                <Menu.Item key="5">Secant <Link to="/Secant" /> </Menu.Item>
 
               </SubMenu>
 
@@ -88,7 +88,7 @@ class App extends Component {
                   </span>
                 }
               >
-                <Menu.Item key="7">Cramer's <Link to="/Cramer" /> </Menu.Item>
+                <Menu.Item key="6">Cramer's <Link to="/Cramer" /> </Menu.Item>
                 
 
               </SubMenu>
@@ -102,7 +102,7 @@ class App extends Component {
                   </span>
                 }
               >
-                <Menu.Item key="17">Linear <Link to="/Linear" /> </Menu.Item>
+                <Menu.Item key="7">Linear <Link to="/Linear" /> </Menu.Item>
 
               </SubMenu>
 
@@ -114,10 +114,10 @@ class App extends Component {
                   </span>
                 }
               >
-                <Menu.Item key="20">Trapezoidal <Link to="/Trapezoidal" /> </Menu.Item>
-                <Menu.Item key="21">Composite Trapezoidal <Link to="/CompositeTrapezoidal" /> </Menu.Item>
-                <Menu.Item key="22">Simpson<Link to="/Simpson" /> </Menu.Item>
-                <Menu.Item key="23">Composite Simpson<Link to="/CompositeSimpson" /> </Menu.Item>
+                <Menu.Item key="8">Trapezoidal <Link to="/Trapezoidal" /> </Menu.Item>
+                <Menu.Item key="9">Composite Trapezoidal <Link to="/CompositeTrapezoidal" /> </Menu.Item>
+                <Menu.Item key="10">Simpson<Link to="/Simpson" /> </Menu.Item>
+                <Menu.Item key="11">Composite Simpson<Link to="/CompositeSimpson" /> </Menu.Item>
 
               </SubMenu>
 
@@ -129,9 +129,9 @@ class App extends Component {
                   </span>
                 }
               >
-                <Menu.Item key="24">Forward <Link to="/Forward" /> </Menu.Item>
-                <Menu.Item key="25">Backward <Link to="/Backward" /> </Menu.Item>
-                <Menu.Item key="26">Central <Link to="/Central" /> </Menu.Item>
+                <Menu.Item key="12">Forward <Link to="/Forward" /> </Menu.Item>
+                <Menu.Item key="13">Backward <Link to="/Backward" /> </Menu.Item>
+                <Menu.Item key="14">Central <Link to="/Central" /> </Menu.Item>
 
 
               </SubMenu>
